@@ -24,3 +24,5 @@ alias gp='git pull --ff-only'
 
 alias gs='git status --short --branch'
 alias gss='git status'
+
+alias gcc='git commit'
